@@ -15,7 +15,8 @@
     "react-native": "0.71.2",
     "react-native-pager-view": "^6.1.2",
     "react-native-safe-area-context": "^4.5.0",
-    "rtn-calculator": "../calculator"
+    "rtn-calculator": "../calculator",
+    "rtn-centered-text": "../text"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
